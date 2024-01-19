@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/FSVending/static/css/main.b850d539.css",
+    "main.js": "/FSVending/static/js/main.9c35a2e9.js",
+    "static/js/787.9a7bf139.chunk.js": "/FSVending/static/js/787.9a7bf139.chunk.js",
+    "static/media/item9.jpg": "/FSVending/static/media/item9.76c10981f8f187386056.jpg",
+    "static/media/item8.jpg": "/FSVending/static/media/item8.75703a02ccd6030bcebf.jpg",
+    "static/media/benefits.png": "/FSVending/static/media/benefits.1694c55d54902d0459a9.png",
+    "static/media/item10.jpg": "/FSVending/static/media/item10.813304458ec9b3f385fc.jpg",
+    "static/media/item6.jpg": "/FSVending/static/media/item6.792f9db9819cf0612b1d.jpg",
+    "static/media/item11.jpg": "/FSVending/static/media/item11.9d2de7abe1a2493b2992.jpg",
+    "static/media/item3.jpg": "/FSVending/static/media/item3.1004497edfedd19fad93.jpg",
+    "static/media/item4.jpg": "/FSVending/static/media/item4.9e641e516909a9d26b85.jpg",
+    "static/media/item1.jpg": "/FSVending/static/media/item1.316fdf18b0dbfa1fdd1f.jpg",
+    "static/media/item7.jpg": "/FSVending/static/media/item7.90a9454c2417d77aa5b7.jpg",
+    "static/media/item2.jpg": "/FSVending/static/media/item2.7d29079cb792206ce42b.jpg",
+    "static/media/item5.jpg": "/FSVending/static/media/item5.c3efb403b4056e30f64a.jpg",
+    "static/media/vendingMachine.png": "/FSVending/static/media/vendingMachine.a0c14fd2cf27e31e2a2a.png",
+    "static/media/historia.png": "/FSVending/static/media/historia.e28c0d50d04037bd7d39.png",
+    "static/media/mision.png": "/FSVending/static/media/mision.acf7362b790dcce1e4bb.png",
+    "static/media/vetzooLogo.png": "/FSVending/static/media/vetzooLogo.a39d8a398fe55c1cb893.png",
+    "static/media/marcas.png": "/FSVending/static/media/marcas.15831aadfadd486ae938.png",
+    "static/media/card4.png": "/FSVending/static/media/card4.451b3e33aba398f30368.png",
+    "static/media/card3.png": "/FSVending/static/media/card3.d454cf23bfbe28bfd3ba.png",
+    "static/media/card2.png": "/FSVending/static/media/card2.7d6a6c946d81e5bc27f4.png",
+    "static/media/card1.png": "/FSVending/static/media/card1.150b608d8a2e494b83fe.png",
+    "static/media/vetzooHeader.png": "/FSVending/static/media/vetzooHeader.0aa4226767f72275cc92.png",
+    "static/media/vetzooLogo2.png": "/FSVending/static/media/vetzooLogo2.3325742f41e5a587e730.png",
+    "static/media/adatia.png": "/FSVending/static/media/adatia.c101a0ea7c38e295b25b.png",
+    "index.html": "/FSVending/index.html",
+    "main.b850d539.css.map": "/FSVending/static/css/main.b850d539.css.map",
+    "main.9c35a2e9.js.map": "/FSVending/static/js/main.9c35a2e9.js.map",
+    "787.9a7bf139.chunk.js.map": "/FSVending/static/js/787.9a7bf139.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b850d539.css",
+    "static/js/main.9c35a2e9.js"
+  ]
+}
